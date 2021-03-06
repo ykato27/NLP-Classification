@@ -29,10 +29,11 @@ docker-compose up --build
 * ローカルフォルダがマウントされている
 
 ## jupyter notebook説明
-* LSTM_PyTorch.ipynb : LSTMのnotebook
+* LSTM_Pytorch.ipynb : LSTMのnotebook
 * LSTM_Pytorch_bach.ipynb : LSTMバッチ化のnotebook
-* Seq2Seq_PyTorch.ipynb : Seq2Seqのnotebook
-* Attention_Seq2Seq_PyTorch.ipynb : Attentionを追加したSeq2Seqのnotebook
+* Seq2Seq_Pytorch.ipynb : Seq2Seqのnotebook
+* Attention_Seq2Seq_Pytorch.ipynb : Attentionを追加したSeq2Seqのnotebook
+* NLP_GBDT.ipynb : GBDTのnotebook
 
 ## 動作環境
 マシンスペック（Mac)
