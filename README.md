@@ -1,4 +1,4 @@
-# NLP_Classification
+# NLP-Classification
 * 自然言語処理の文書分類プログラム
 
 ## リポジトリ構成
