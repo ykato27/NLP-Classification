@@ -15,9 +15,9 @@
 
 ## 環境構築
 
-* Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/NLP_Classification）
+* Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/NLP-Classification）
 ```
-cd Desktop/NLP_Classification
+cd Desktop/NLP-Classification
 ```
 
 * Dockerによる環境構築（フォルダをマウント：Desktop/NLP_Classification）
