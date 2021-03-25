@@ -22,7 +22,7 @@ cd Desktop/NLP-Classification
 
 * Dockerによる環境構築（フォルダをマウント：Desktop/NLP_Classification）
 ```
-docker-compose up --build
+docker-compose up
 ```
 
 * ブラウザーを立ち上げてlocalhost:8888へアクセス
